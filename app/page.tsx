@@ -88,7 +88,7 @@ export default function Home() {
               <a
                 href="#waitlist"
                 className="px-8 py-3.5 rounded-full text-sm font-semibold transition-all hover:opacity-90 focus:outline-none focus:ring-2 focus:ring-offset-2"
-                style={{ background: "var(--deep-teal)", color: "#faf7f2", focusRingColor: "var(--deep-teal)" }}
+                style={{ background: "var(--deep-teal)", color: "#faf7f2" }}
               >
                 Get Early Access
               </a>
